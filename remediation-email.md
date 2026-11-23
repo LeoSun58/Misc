@@ -98,5 +98,5 @@ It should return **0x5**.
 Let me know if you have any questions or need any adjustments!
 
 Best regards,
-**[Your Name], Security Analyst**<br/>
+**[Kerestel Leonard], Security Analyst**<br/>
 **Governance, Risk, and Compliance**
